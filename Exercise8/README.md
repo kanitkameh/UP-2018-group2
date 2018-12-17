@@ -15,3 +15,8 @@ bool isDiagonal(int** arr, int row, int col);
 4. Напишете имплементация на функцията 
 int calculateDeterminant(int** arr, int row, int col); 
 Която смята детерминантата на квадратна матрица
+
+3
+1 2 3
+4 5 6
+7 8 9
